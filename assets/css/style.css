@@ -469,7 +469,7 @@ h1, h2, h3, h4, h5, h6{
 #contact{
 	color: white;
 }
-#contact h1{color: white}
+#contact h1, #contact h3{color: white}
 
 .form-control-white {
     background: transparent;
